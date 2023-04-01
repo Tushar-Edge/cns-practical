@@ -64,7 +64,7 @@ int main()
 {
 string data_s;
 string key;
-cout << "Enter the data stream to be encoded(binary)";
+cout << "Enter data stream to be encoded(binary)";
 cin >> data_s;
 cout << "Enter the key(binary) ";
 cin >> key;
